@@ -1,7 +1,6 @@
 package com.mpiyush3510.studentlogin;
 
 import androidx.appcompat.app.AppCompatActivity;
-
 import android.os.Bundle;
 
 public class StudentSignUp extends AppCompatActivity {
