@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "926506507709",
+    "project_id": "sutexloginapps",
+    "storage_bucket": "sutexloginapps.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:926506507709:android:0f3f769f8641ee612c86d4",
+        "android_client_info": {
+          "package_name": "com.mpiyush3510.studentlogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "926506507709-dmmlm94us6mvmrtglf4dj9ho3pmc4998.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIU8RYgnxPU9Rm-IrZ-JCxFR6BcgAKRBA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "926506507709-dmmlm94us6mvmrtglf4dj9ho3pmc4998.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
