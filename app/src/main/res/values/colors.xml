@@ -5,4 +5,5 @@
     <color name="White">#FFFFFF</color>
     <color name="Background_color">#ECECEC</color>
     <color name="Primary_text">#C5C5C5</color>
+    <color name="Text_color">#fcacad</color>
 </resources>
